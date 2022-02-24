@@ -1,0 +1,4 @@
+###### Requirements ######
+cryptography >= 36.0.1
+
+
